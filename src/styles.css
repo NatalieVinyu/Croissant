@@ -2,3 +2,13 @@ body {
     background-color: #F8E8A5;
     text-align: center;
 }
+
+.link {
+    text-decoration: none;
+    color: green;
+    margin: 15px;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
